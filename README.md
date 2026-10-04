@@ -2,7 +2,7 @@
 
 UAS Visualisasi Data dan Informasi 2026. 
 
-## Topik: 
+## Topik
 - **geospasial** (choropleth IKK + proportional symbol PDRB Konstruksi, 514 kab/kota, 2025)
 - **hierarki** (treemap + sunburst, Pulau > Provinsi > Jenis Bangunan, 2024)
 - **multivariat** (PCA biplot, heatmap korelasi, scatter plot matrix; 8 variabel x 34 provinsi, 2025).
