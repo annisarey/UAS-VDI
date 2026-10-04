@@ -15,8 +15,3 @@ style.css
 data/                  # data terolah 
 scripts/preprocess.py  # CSV BPS + GeoJSON mentah -> data/
 ```
-
-## Interaksi
-- Geospasial: hover tooltip, zoom/pan, checkbox layer, filter provinsi.
-- Hierarki: klik untuk drill-down + breadcrumb (path bar treemap, pusat sunburst), filter pulau.
-- Multivariat: box/lasso pada PCA atau multiselect menyorot provinsi di scatter plot matrix (brushing and linking).
